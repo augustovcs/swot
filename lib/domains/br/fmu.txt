@@ -1,2 +1,8 @@
-Centro Universitário FMU
-FMU University Center
+university name:
+FMU Universidade
+FMU University
+
+
+domains:
+https://portal.fmu.br/
+https://levelup.fmu.br/disciplinas
